@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Peer2Peer.iml" filepath="$PROJECT_DIR$/Peer2Peer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/peer1/peer1.iml" filepath="$PROJECT_DIR$/peer1/peer1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/peer2/peer2.iml" filepath="$PROJECT_DIR$/peer2/peer2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/peer3/peer3.iml" filepath="$PROJECT_DIR$/peer3/peer3.iml" />
+    </modules>
+  </component>
+</project>
